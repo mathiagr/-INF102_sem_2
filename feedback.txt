@@ -1,0 +1,17 @@
+Feedback for mgr040
+
+Resultat: Godkjent
+
+Generelt: Bærer preg av meget grundig arbeid. Se kommentar på oppg 2 under for hvordan du kunne oppnådd enda høyere score.
+
+Oppgave 1.
+Gode resonnementer rundt funnene dine og grundig gjennomførte forsøk, bra!
+
+Oppgave 2.
+Veldig bra! Du har nok tilnærmet optimal løsning mtp hashing, men for å komprimere enda mer kunne du gjort 'bits' i
+ output-filen om til 'bytes'. Dvs komprimere 8 og 8 binære tall til en character.
+
+Oppgave 3.
+Interessant oppgave og god løsning, bra!
+
+
